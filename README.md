@@ -1,2 +1,2 @@
-# Variaveis_operadores
+# Variaveis & operadores
 Exercícios de variáveis e operadores - Generation.
